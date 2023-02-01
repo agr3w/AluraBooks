@@ -14,4 +14,4 @@ Projeto realizado durante as aulas de "CSS e HTML: responsividade com mobile fir
 
 ## Detalhes do projeto
 
-Em especial esse projeto eu aprendi muito sobre posicionamento de elementos em um site e também muito sobre o quão importante é pensarmos em um display para celulares.
+Em especial durante a produção desse projeto eu aprendi muito sobre posicionamento de elementos em um site e também muito sobre o quão importante é pensarmos em um display para celulares.
